@@ -1,4 +1,4 @@
-# Laravel 6.0+ Frontend preset for GOV.UK Frontend
+# Laravel 6.0+ UI/frontend preset for GOV.UK Frontend
 
 *Using Laravel 5.x? See below*
 
