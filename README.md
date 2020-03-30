@@ -1,8 +1,8 @@
 # Laravel 6.0+/7.0+ UI/frontend preset for GOV.UK Frontend
 
-For Laravel 7, use the latest version of this preset - [composer require cabinetoffice/laravel-govuk-frontend-preset](composer require cabinetoffice/laravel-govuk-frontend-preset)
+For Laravel 7, use the latest version of this preset - `composer require cabinetoffice/laravel-govuk-frontend-preset`
 
-For Laravel 6, use the version tagged as v1.0.3 - [composer require cabinetoffice/laravel-govuk-frontend-preset:v1.0.3](composer require cabinetoffice/laravel-govuk-frontend-preset:v1.0.3)
+For Laravel 6, use the version tagged as v1.0.3 - `composer require cabinetoffice/laravel-govuk-frontend-preset:v1.0.3`
 
 *Using Laravel 5.x? See below*
 
