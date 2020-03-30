@@ -1,8 +1,16 @@
 # Changelog
 
+## 1.0.4
+
+Separate release for Laravel 7
+
+## 1.0.3
+
+Separate release for Laravel 6
+
 ## 1.0.2-rc
 
-Re-release to focus on on Laravel 7
+Re-release to focus on Laravel 7
 
 ## 1.0.1-rc
 
