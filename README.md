@@ -1,6 +1,10 @@
-# Laravel 7.0+ UI/frontend preset for GOV.UK Frontend
+# Laravel 6.0+/7.0+ UI/frontend preset for GOV.UK Frontend
 
-*Using Laravel 5.x/6.x? See below*
+For Laravel 7, use the latest version of this preset - [composer require cabinetoffice/laravel-govuk-frontend-preset](composer require cabinetoffice/laravel-govuk-frontend-preset)
+
+For Laravel 6, use the version tagged as v1.0.3 - [composer require cabinetoffice/laravel-govuk-frontend-preset:v1.0.2-v6-rc](composer require cabinetoffice/laravel-govuk-frontend-preset:v1.0.3)
+
+*Using Laravel 5.x? See below*
 
 A Laravel Front-end scaffolding preset for [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend).
 
@@ -14,7 +18,7 @@ We suggest you read the [GOV.UK Design System](https://design-system.service.gov
 
 ## Usage
 
-1. Fresh install Laravel >= 7.0.0 and cd to your app directory.
+1. Fresh install Laravel and cd to your app directory.
 2. Install this preset via `composer require cabinetoffice/laravel-govuk-frontend-preset`. Laravel will automatically discover this package. You do not need to register the service provider.
 3. Use `php artisan ui govuk` for the basic GOV.UK Frontend preset OR use `php artisan ui govuk-auth` for the basic preset, auth route entry and GOV.UK Frontend auth views in one go.
 4. `npm install && npm run dev`
@@ -22,9 +26,9 @@ We suggest you read the [GOV.UK Design System](https://design-system.service.gov
 6. `php artisan serve` to run server and test preset.
 
 
-### Laravel 5.x/6.x
+### Laravel 5.x
 
-If you want use [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) for Laravel 5.x/6.x, you can use [this original preset](https://packagist.org/packages/lukevincent/laravel-govuk-preset), maintained by Luke Vincent from DfT.
+If you want use [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) for Laravel 5.x, you can use [this original preset](https://packagist.org/packages/lukevincent/laravel-govuk-preset), maintained by Luke Vincent from DfT.
 
 ### Maintainers
 The preset has been developed by Digital Communication, Cabinet Office and No10 Communication.
