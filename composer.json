@@ -1,6 +1,6 @@
 {
     "name": "cabinetoffice/laravel-govuk-frontend-preset",
-    "description": "A Laravel (6.0+) preset for https://github.com/alphagov/govuk-frontend. It comes with basic and Auth (optional) scaffolding.",
+    "description": "A Laravel (7.0+) preset for https://github.com/alphagov/govuk-frontend. It comes with basic and Auth (optional) scaffolding.",
     "keywords": ["laravel", "laravel preset", "govuk", "govuk frontend", "gov.uk", "government", "design system"],
     "type": "preset",
     "license": "MIT",

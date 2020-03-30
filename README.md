@@ -1,6 +1,6 @@
-# Laravel 6.0+ UI/frontend preset for GOV.UK Frontend
+# Laravel 7.0+ UI/frontend preset for GOV.UK Frontend
 
-*Using Laravel 5.x? See below*
+*Using Laravel 5.x/6.x? See below*
 
 A Laravel Front-end scaffolding preset for [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend).
 
@@ -14,17 +14,17 @@ We suggest you read the [GOV.UK Design System](https://design-system.service.gov
 
 ## Usage
 
-1. Fresh install Laravel >= 6.0.0 and cd to your app directory.
+1. Fresh install Laravel >= 7.0.0 and cd to your app directory.
 2. Install this preset via `composer require cabinetoffice/laravel-govuk-frontend-preset`. Laravel will automatically discover this package. You do not need to register the service provider.
-3. Use `php artisan ui govuk` for the basic GOV.UK Frontend preset OR use `php artisan preset govuk-auth` for the basic preset, auth route entry and GOV.UK Frontend auth views in one go.
+3. Use `php artisan ui govuk` for the basic GOV.UK Frontend preset OR use `php artisan ui govuk-auth` for the basic preset, auth route entry and GOV.UK Frontend auth views in one go.
 4. `npm install && npm run dev`
 5. You may need to carry out additional configuration and database migration depending on your set up.
 6. `php artisan serve` to run server and test preset.
 
 
-### Laravel 5.x
+### Laravel 5.x/6.x
 
-If you want use [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) for Laravel 5.x, you can use [this original preset](https://packagist.org/packages/lukevincent/laravel-govuk-preset), maintained by Luke Vincent from DfT.
+If you want use [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) for Laravel 5.x/6.x, you can use [this original preset](https://packagist.org/packages/lukevincent/laravel-govuk-preset), maintained by Luke Vincent from DfT.
 
 ### Maintainers
 The preset has been developed by Digital Communication, Cabinet Office and No10 Communication.
