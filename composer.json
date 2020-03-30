@@ -11,6 +11,9 @@
         }
     ],
     "minimum-stability": "stable",
+    "require": {
+        "laravel/ui": "^2.0"
+    },
     "autoload": {
         "psr-4": {
             "CabinetOffice\\Laravel\\GOVUKFrontendPreset\\": "src/"
