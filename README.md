@@ -14,7 +14,7 @@ See live examples of GOV.UK Frontend components, and guidance on when to use the
 
 We suggest you read the [GOV.UK Design System](https://design-system.service.gov.uk/) for full guidance.
 
-*Current version:* **GOV.UK Frontend 3.6.0**
+*Current version:* **GOV.UK Frontend 3.7.0**
 
 ## Usage
 
