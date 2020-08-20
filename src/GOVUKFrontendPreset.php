@@ -31,7 +31,7 @@ class GOVUKFrontendPreset extends Preset
 
     protected static function updatePackageArray($packages)
     {
-        return array_merge(['govuk-frontend' => '~3.81'],
+        return array_merge(['govuk-frontend' => '~3.8.1'],
             Arr::except($packages, [
                 'popper.js',
                 'lodash',
